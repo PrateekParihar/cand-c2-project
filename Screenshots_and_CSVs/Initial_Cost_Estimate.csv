@@ -1,0 +1,16 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,515.7,6188.40,USD,Number of NAT Gateways (2)
+My Estimate,US East (N. Virginia),Amazon EC2,0,1399.84,16798.08,USD,"Operating system (Linux), Quantity (8), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (r5a.xlarge)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,1200.85,14410.20,USD,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,1204.5,14454.00,USD,"Number of Classic Load Balancers (2), Processed bytes per CLB (100 GB per hour)"
+My Estimate,US East (N. Virginia),Amazon Aurora MySQL-Compatible,0,3155.4,37864.80,USD,"Change records per statement (0.38), (6 instances)  db.r5.xlarge  Memory optimized  OnDemand, Number of I/Os per month in millions (50), Storage amount (5000 GB), Additional backup storage (5000 GB)"
+My Estimate,US East (N. Virginia),Amazon ElastiCache,0,630.72,7568.64,USD,(4 instances)  Memcached  Memory optimized  cache r5.large  OnDemand
+My Estimate,US East (N. Virginia),Amazon Elastic IP,0,505.8,6069.60,USD,"Number of EC2 instances (8), Number of EIPs per instance (10), Number of EIP remaps (30)"
+My Estimate,US East (N. Virginia),S3 Standard,0,491.25,5895.00,USD,S3 Standard storage (20000 GB per month)
+My Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD," Inbound (from: Not selected) 0 TB per month 
+ Outbound (to: Not selected) 0 TB per month 
+"
+
+
+
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
